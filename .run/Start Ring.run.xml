@@ -1,0 +1,10 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Start Ring" type="CompoundRunConfigurationType">
+    <toRun name="ChordDHT.Server: 2 - Join" type="LaunchSettings" />
+    <toRun name="ChordDHT.Server: 4 - Join" type="LaunchSettings" />
+    <toRun name="ChordDHT.Server: 3 - Join" type="LaunchSettings" />
+    <toRun name="ChordDHT.Server: 0 - New Ring" type="LaunchSettings" />
+    <toRun name="ChordDHT.Server: 1 - Join" type="LaunchSettings" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChordDHT", ".\src\ChordDHT\ChordDHT.csproj", "{8ED7C663-A5BD-48C0-BB31-670A115B1878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChordDHT.Server", ".\src\ChordDHT.Server\ChordDHT.Server.csproj", "{35D5FACA-3A5E-4EC3-92F5-D9CD8A1286BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED7C663-A5BD-48C0-BB31-670A115B1878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED7C663-A5BD-48C0-BB31-670A115B1878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED7C663-A5BD-48C0-BB31-670A115B1878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED7C663-A5BD-48C0-BB31-670A115B1878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D5FACA-3A5E-4EC3-92F5-D9CD8A1286BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D5FACA-3A5E-4EC3-92F5-D9CD8A1286BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D5FACA-3A5E-4EC3-92F5-D9CD8A1286BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D5FACA-3A5E-4EC3-92F5-D9CD8A1286BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
